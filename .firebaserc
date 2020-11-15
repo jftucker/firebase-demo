@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-demo-3f724": {
+      "hosting": {
+        "firebase-demo": [
+          "fir-demo-3f724"
+        ]
+      }
+    }
+  }
+}
